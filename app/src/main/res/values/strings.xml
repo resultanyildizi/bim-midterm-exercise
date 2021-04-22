@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Book Application</string>
+    <string name="addBook">Add Book</string>
+    <string name="showBooks">Show Books</string>
+    <string name="basket">Basket</string>
+    <string name="show_books_fragment">Show Books </string>
+    <string name="basket_fragment">Basket Fragment</string>
+    <string name="add_book_fragment">Add Book</string>
+    <string name="name">Name</string>
+    <string name="author">Author</string>
+    <string name="pageCount">Page Count</string>
+    <string name="select_category">Select Category</string>
+    <string name="add_book">Add Book</string>
+    <string name="go_to_next_page">Go To Next Page</string>
+
+    <string-array name="categories">
+        <item>Select Category</item>
+        <item>Horror</item>
+        <item>Love</item>
+        <item>Fantasy</item>
+        <item>Adventure</item>
+        <item>Sci-Fi</item>
+    </string-array>
+</resources>
